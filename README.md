@@ -9,7 +9,7 @@ This Jupyter Notebook provides an introduction to essential concepts in data sci
 - **Data Science Libraries**  
 - **Evaluating Arithmetic Expressions**  
 - **Multiplying and Adding Integers**  
-- **Converting Minutes to Hours**  
+- **Converting Minutes to Hours** 
 
 ## Installation  
 To use this notebook, install Jupyter Notebook with:  
